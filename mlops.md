@@ -1,4 +1,4 @@
-# gcp
+# gcp MLOps with Vertex AI
 
 ## Task 1. Prepare your environment
 git clone https://github.com/GoogleCloudPlatform/data-science-on-gcp
